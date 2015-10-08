@@ -1,0 +1,23 @@
+{
+  "name": "ts-steps",
+  "version": "1.0.0",
+  "description": "typescript 18 step test studies",
+  "main": "\"\"",
+  "scripts": {
+    "test": "hellow typescript"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanveer12332/Typescript-Studies.git"
+  },
+  "author": "Muhammad Tanveer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanveer12332/Typescript-Studies/issues"
+  },
+  "homepage": "https://github.com/tanveer12332/Typescript-Studies#readme",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-typescript": "^2.9.2"
+  }
+}
